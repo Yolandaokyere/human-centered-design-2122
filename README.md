@@ -2,13 +2,13 @@
 
 
 ##### Table of Contents
-* [Assesment](https://github.com/Yolandaokyere/RijkArt-progressive-web/blob/main/README.md#-assesment)
-* [Concept](https://github.com/Yolandaokyere/RijkArt-progressive-web/blob/main/README.md#-concept)
-* [Process](https://github.com/Yolandaokyere/RijkArt-progressive-web/blob/main/README.md#-process)
-* [Wishlist](https://github.com/Yolandaokyere/RijkArt-progressive-web/blob/main/README.md#-wishlist)
-* [Installation](https://github.com/Yolandaokyere/RijkArt-progressive-web/blob/main/README.md#-installation)
-* [Recources](https://github.com/Yolandaokyere/RijkArt-progressive-web/blob/main/README.md#-recources)
-* [License](https://github.com/Yolandaokyere/RijkArt-progressive-web/blob/main/README.md#-license)
+* [Assesment](https://github.com/Yolandaokyere/human-centered-design-2122/blob/main/README.md#-assesment)
+* [Activity diagram](https://github.com/Yolandaokyere/human-centered-design-2122/blob/main/README.md#-activity-diagram)
+* [Process](https://github.com/Yolandaokyere/human-centered-design-2122/blob/main/README.md#-process)
+* [Wishlist](https://github.com/Yolandaokyere/human-centered-design-2122/blob/main/README.md#-wishlist)
+* [Installation](https://github.com/Yolandaokyere/human-centered-design-2122/blob/main/README.md#-installation)
+* [Recources](https://github.com/Yolandaokyere/human-centered-design-2122/blob/main/README.md#-recources)
+* [License](https://github.com/Yolandaokyere/human-centered-design-2122/blob/main/README.md#-recources)
 ## 📚 Assesment
 ### Marie van Driessche
 
