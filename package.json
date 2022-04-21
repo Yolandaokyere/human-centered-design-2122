@@ -1,0 +1,28 @@
+{
+  "name": "human-centered-design-2122",
+  "version": "1.0.0",
+  "description": "* [Assesment](https://github.com/Yolandaokyere/human-centered-design-2122/blob/main/README.md#-assesment)\r * [Activity diagram](https://github.com/Yolandaokyere/human-centered-design-2122/blob/main/README.md#-activity-diagram)\r * [Process](https://github.com/Yolandaokyere/human-centered-design-2122/blob/main/README.md#-process)\r * [Wishlist](https://github.com/Yolandaokyere/human-centered-design-2122/blob/main/README.md#-wishlist)\r * [Installation](https://github.com/Yolandaokyere/human-centered-design-2122/blob/main/README.md#-installation)\r * [Recources](https://github.com/Yolandaokyere/human-centered-design-2122/blob/main/README.md#-recources)\r * [License](https://github.com/Yolandaokyere/human-centered-design-2122/blob/main/README.md#-recources)\r ## 📚 Assesment\r ### Marie van Driessche",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yolandaokyere/human-centered-design-2122.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yolandaokyere/human-centered-design-2122/issues"
+  },
+  "homepage": "https://github.com/Yolandaokyere/human-centered-design-2122#readme",
+  "dependencies": {
+    "@google-cloud/speech": "^4.10.1",
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.7",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
